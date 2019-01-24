@@ -10,6 +10,7 @@ class Stuff
 {
     public $doors = 4;
     public $doors1 = 4;
+    public $doors123 = 15;
     public $doors12 = 15;
 }
 print_r(new Stuff());
